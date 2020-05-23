@@ -17,6 +17,9 @@
         <module>jiahemall-ware</module>
         <module>jiahemall-member</module>
         <module>jiahemall-coupon</module>
-
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>jiahemall-common</module>
+        <module>jiahemall-gateway</module>
     </modules>
 </project>
